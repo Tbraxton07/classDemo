@@ -1,4 +1,4 @@
 .vs
-builds/
+builds/*
 *.log
 .DS_Store
