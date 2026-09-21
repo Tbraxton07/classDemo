@@ -13,7 +13,7 @@ sudo apt update
 sudo apt upgrade -y
 sudo apt install build-essential
 
-g++ -o hello main.cpp
+g++ -o ./builds/hello main.cpp
 ./hello
 ```
 
