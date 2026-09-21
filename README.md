@@ -1,3 +1,6 @@
 # Contributors:
 
+* Shawn Tunningley
+* Michael Prado
+* Trenten Braxton
 * Chapman
